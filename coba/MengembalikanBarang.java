@@ -22,10 +22,10 @@ private TextField pegawai,barangKembali,jumlah,tanggal;
 private Button kembalikan,refresh;
 private JComboBox pil;
 private String pilKembalikan;
-//private String[][]BStockD = new String[100][3];
-//private String[][]BStockL = new String[100][3];
-//private String[][]BStockT = new String[100][3];
-//private String[][]BStockA = new String[100][3];
+private String[][]BStockD = new String[100][3];
+private String[][]BStockL = new String[100][3];
+private String[][]BStockT = new String[100][3];
+private String[][]BStockA = new String[100][3];
    
 private Calendar hireday;
     private Calendar now;
